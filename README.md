@@ -1,4 +1,4 @@
-Hi! Names Evan (or Ev for short). I am an amateur graphics programmer and game engine developer.
+IT professional and hobbyist developer. Currently working on my own instant messaging app called "Chatterly"!
 
 <!---
 evan-tye/evan-tye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
